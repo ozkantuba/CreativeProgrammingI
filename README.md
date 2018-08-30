@@ -6,13 +6,10 @@ During the course of the semester, you’ll learn how to write code for a variet
 
 We’ll be starting from scratch, so if you don’t know anything about writing software that’s totally ok! For those that have experience coding, we’ll be using ideas from graphics programming that might be new to you, and I encourage you to take the cool things you know and apply them to our projects. For everyone in the class: talk to and help each other. Classes shouldn’t be one-way information machines, but a way to share ideas and skills between each other. 
 
+*The course materials are mainly based on 2017 Fall Creative Programming Course materials designed by Jeffrey Thomson.
+
 DETAILS
 
 Instructor: Tuba Ozkan
 Email: tuba.ozkan@stevens.edu
-Meeting times: Fridays 9.00am–12.50pm
-Office/hours: Thursdays 1pm-2pm
-Location:  Video-Call or email
-Course materials: www.github.com/jeffThompson/CreativeProgramming1
 
-*The course materials are mainly based on 2017 Fall Creative Programming Course materials designed by Jeffrey Thomson.
