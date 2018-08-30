@@ -15,4 +15,4 @@ Office/hours: Thursdays 1pm-2pm
 Location:  Video-Call or email
 Course materials: www.github.com/jeffThompson/CreativeProgramming1
 
-* The course materials are mainly based on 2017 Fall Creative Programming Course materials designed by Jeffrey Thomson.
+*The course materials are mainly based on 2017 Fall Creative Programming Course materials designed by Jeffrey Thomson.
