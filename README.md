@@ -1,7 +1,5 @@
 CREATIVE PROGRAMMING 1
 
-COURSE DESCRIPTION
-
 In this class, we will explore the computer as a tool capable of powerful creative possibility, not via pre-built software, but instead by writing code ourselves. We will look at the basic structures and affordances of code as inspiration for making artworks, as a tool capable of creating things that would be impossible by hand, and as a fallible system that encapsulates our cultural and personal biases. 
 
 During the course of the semester, you’ll learn how to write code for a variety of visual projects including image, text, animation, and interaction. We’ll primarily be using the Processing platform, a toolkit created specifically for artists and designers built on the  language Java, and a brief exploration of Python as a tool for building Twitter bots.  Along the way, we’ll also look at historical and contemporary figures in the arts and computer science who have shaped how we use computers as creative tools, and we’ll explore code from a critical, humanistic perspective. 
