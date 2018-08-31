@@ -10,6 +10,9 @@ We’ll be starting from scratch, so if you don’t know anything about writing 
 
 DETAILS
 
-Instructor: Tuba Ozkan
+Instructor: Tuba Ozkan,
 Email: tuba.ozkan@stevens.edu
+
+SYYLABUS
+https://docs.google.com/document/d/1Yzmd2nkCi_L26HupuyNpFykmg4U4iHYsfW2pcYAYwHQ/edit?usp=sharing
 
