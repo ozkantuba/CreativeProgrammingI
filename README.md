@@ -13,6 +13,6 @@ DETAILS
 Instructor: Tuba Ozkan,
 Email: tuba.ozkan@stevens.edu
 
-SYYLABUS
+SYLLABUS
 https://docs.google.com/document/d/1Yzmd2nkCi_L26HupuyNpFykmg4U4iHYsfW2pcYAYwHQ/edit?usp=sharing
 
