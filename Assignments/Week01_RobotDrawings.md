@@ -1,5 +1,3 @@
-![An example robot, drawn with code](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week01_Drawing/Robots.jpg)
-
 ROBOT DRAWINGS
 ====
 
@@ -36,21 +34,6 @@ To turn in your project, zip your sketch's folder (with the code and png file in
 * On PC, click `Send To > Compressed...`
 
 If necessary, rename to `LastnameFirstname_ROBOT.zip` and upload to Canvas before the start of class. In class next week, we'll run the code and look at everyone's robots together.
-
-![How people used to "export" images from code – taking a photo of an oscilloscope screen](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week01_Drawing/OscilloscopeCamera-1.jpg)
-
-*How people used to "export" images from code – taking a photo of an oscilloscope screen*
-
-### PROJECTS/ARTISTS SHOWN  
-* The collages of [Henri Matisse](https://en.wikipedia.org/wiki/Henri_Matisse), who uses simple shapes to create beautiful and dynamic drawings  
-* Before the computer mouse and interactive drawing software: programming by [punchcard](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)  
-* Ivan Sutherland's [*Sketchpad*](https://en.wikipedia.org/wiki/Sketchpad) system ([video](https://youtu.be/USyoT_Ha_bA?t=3m30s)) and the [light pen](https://en.wikipedia.org/wiki/Light_pen)  
-* *The Incredible Machine: Applications, Computer Graphics, Look at Future Uses* from Bell Laboratories in the 1960s, including lots of examples of input and output ([video](https://www.youtube.com/watch?v=r18i-uR6BD4))  
-* John Whitney's animation [*Catalog*](https://www.youtube.com/watch?v=TbV7loKp69s), created in 1966 as a record of the many visual effects he was able to create with the computer  
-* [Lillian Schwartz](https://en.wikipedia.org/wiki/Lillian_Schwartz), working at Bell Labs, created many early computer animations including [*ENIGMA*](http://lillian.com/1972-enigma-4-min-20-sec/) from 1972  
-* Before printers, artists like John Whitney would output their work to CRT screens and photograph them (for animations, frame-by-frame) using devices like above  
-* Single-line drawings by Waclaw Szpakowski in the 1920s  
-* The amazing (and relevant to this week) *The Art of Computer Designing: A Black and White Approach* by Osamu Sato from 1993  
 
 ### GRADING RUBRIC  
 Your project (and most upcoming ones) will be graded with the following rubric:
