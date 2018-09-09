@@ -27,13 +27,16 @@ No problem drawing your robot? Try these challenges:
 * Try adding shading to your robot, and/or drawing in perspective!
 
 ### TURNING IN  
-To turn in your project, zip your sketch's folder (with the code and png file in it). To zip a folder:
+To turn in your project,
+1) Upload your final visual (png file) to class's tumblr account (not to your personal account).
+2) zip your sketch's folder (with the code and png file in it). To zip a folder:
 
 * Right-click the sketch folder...  
 * On Mac, click `Compress...` to zip  
 * On PC, click `Send To > Compressed...`
 
-If necessary, rename to `LastnameFirstname_ROBOT.zip` and upload to Canvas before the start of class. In class next week, we'll run the code and look at everyone's robots together.
+If necessary, rename to `LastnameFirstname_ROBOT.zip` and upload to Canvas before the start of class.
+In class next week, we'll run the code and look at everyone's robots together.
 
 ### GRADING RUBRIC  
 Your project (and most upcoming ones) will be graded with the following rubric:
