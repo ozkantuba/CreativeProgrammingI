@@ -26,7 +26,7 @@ Try adding these elements to your quilt:
 * Zip your sketch folder, with the image in it, and upload to Canvas  
 
 ### RESOURCES  
-* The [graph paper](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Resources/QuiltGraphPaper.pdf) we used in class – print more if you need it for planning your project  
+* The [graph paper](https://github.com/ozkantuba/CreativeProgrammingI/blob/master/Resources/QuiltGraphPaper.pdf) we used in class – print more if you need it for planning your project
 * Barbara Brackman's [*Encyclopedia of Pieced Quilt Patterns*](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Readings/Week02_IterationAndLoops/EncyclopediaOfPiecedQuiltPatterns_BarbaraBrackman.pdf) includes over 1000 different quilt patterns  
 * The University of Nebraska–Lincoln's amazing [International Quilt Study Center](http://www.quiltstudy.org) and Museum includes an excellent [online collection](http://www.quiltstudy.org/collections/search.html) you can browse (searching by country is especially helpful)  
 * A wonderful video documenting the Met Museum's [re-created Moroccan courtyard](https://www.youtube.com/watch?v=Og6cTlwBTrk) (which you can go see IRL, too!)  
