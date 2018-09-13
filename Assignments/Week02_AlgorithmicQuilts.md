@@ -3,7 +3,7 @@ ALGORITHMIC QUILTS
 
 ### DUE: FRIDAY, SEPTEMBER 21
 
-One of the things computers are very good at is repetitious tasks: just the act of displaying fetching this web page and displaying the text likely required millions of mathematical computations, all happening in just a few seconds. This week, we'll use the ideas of iteration, `push/popMatrix()`, and custom functions to build algorithmically-generated quilts. After researching [traditional quilt patterns](https://github.com/ozkantuba/CreativeProgrammingI/blob/master/Readings/Week02_IterationAndLoops/EncyclopediaOfPiecedQuiltPatterns_BarbaraBrackman.pdf) and doing some drawing by hand, we'll move to code where you'll write a sketch that generates a quilt. The goal is not to replicate traditional designs directly, but be inspired by them to create your own. Think about what kinds of designs might be appropriate for a computer-generated quilt.
+One of the things computers are very good at is repetitious tasks: just the act of displaying fetching this web page and displaying the text likely required millions of mathematical computations, all happening in just a few seconds. This week, we'll use the ideas of iteration, `push/popMatrix()`, and custom functions to build algorithmically-generated quilts. After researching [traditional quilt patterns](https://github.com/ozkantuba/CreativeProgrammingI/blob/master/Resources/Readings/Week02_IterationAndLoops/EncyclopediaOfPiecedQuiltPatterns_BarbaraBrackman.pdf) and doing some drawing by hand, we'll move to code where you'll write a sketch that generates a quilt. The goal is not to replicate traditional designs directly, but be inspired by them to create your own. Think about what kinds of designs might be appropriate for a computer-generated quilt.
 
 (Want to see what this process might have looked like in 1984? See [this article in *Compute! Gazette* issue 13](https://archive.org/stream/1984-07-computegazette/Compute_Gazette_Issue_13_1984_Jul#page/n85/mode/2up) on page 83.)
 
@@ -27,7 +27,7 @@ Try adding these elements to your quilt:
 
 ### RESOURCES  
 * The [graph paper](https://github.com/ozkantuba/CreativeProgrammingI/blob/master/Resources/QuiltGraphPaper.pdf) we used in class – print more if you need it for planning your project
-* Barbara Brackman's [*Encyclopedia of Pieced Quilt Patterns*](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Readings/Week02_IterationAndLoops/EncyclopediaOfPiecedQuiltPatterns_BarbaraBrackman.pdf) includes over 1000 different quilt patterns  
+* Barbara Brackman's [*Encyclopedia of Pieced Quilt Patterns*](https://github.com/ozkantuba/CreativeProgrammingI/blob/master/Resources/Readings/Week02_IterationAndLoops/EncyclopediaOfPiecedQuiltPatterns_BarbaraBrackman.pdf) includes over 1000 different quilt patterns
 * The University of Nebraska–Lincoln's amazing [International Quilt Study Center](http://www.quiltstudy.org) and Museum includes an excellent [online collection](http://www.quiltstudy.org/collections/search.html) you can browse (searching by country is especially helpful)  
 * A wonderful video documenting the Met Museum's [re-created Moroccan courtyard](https://www.youtube.com/watch?v=Og6cTlwBTrk) (which you can go see IRL, too!)  
 * Read more about [Girih tiles](https://en.wikipedia.org/wiki/Girih_tiles), used in Islamic architecture  
