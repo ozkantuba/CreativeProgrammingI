@@ -9,8 +9,6 @@ One of the things computers are very good at is repetitious tasks: just the act 
 
 **Your quilt sketch should be 800 x 800 pixels and exported as a png file, then everything zipped and uploaded to Canvas, just like last week.**
 
-*Above: a "Nine Patch" pattern quilt by Barabara Yoder, 1920*  
-
 ### STRETCH GOALS  
 Try adding these elements to your quilt:
 
