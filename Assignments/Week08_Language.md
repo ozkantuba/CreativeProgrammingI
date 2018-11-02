@@ -21,9 +21,9 @@ Try to think about these values as you're writing Python code the next two weeks
 ### STRETCH GOALS  
 Try adding these elements to your bot:
 
-* Can you include a check that ensures your tweet is less than 140 characters and generates a new one if it isn't?  
-* Can you make your bot mimic a certain kind of text, such as the author of a novel or a type of viral headline?  
-* Try looking into [regular expressions](https://www.tutorialspoint.com/python/python_reg_expressions.htm), a difficult-to-get-used-to but very powerful library that lets you manipulate text based on patterns. Lots more info in the [Python docs](https://docs.python.org/2/library/re.html), [this cheatsheet](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/), and [this online regex builder](https://www.debuggex.com/).  
+* Can you make your bot mimic a certain kind of text, such as the author of a novel or a type of viral headline?
+* Can you make your bot response differently to specific messages? Check the Slack API documentation and events for this. (https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
+* Try looking into [regular expressions](https://www.tutorialspoint.com/python/python_reg_expressions.htm), a difficult-to-get-used-to but very powerful library that lets you manipulate text based on patterns. Lots more info in the [Python docs](https://docs.python.org/2/library/re.html), [this cheatsheet](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/), and [this online regex builder](https://www.debuggex.com/).
 
 ### FOR FRIDAY, NOVEMBER 2
 For next week, you'll start building the skeleton of your bot:
@@ -36,7 +36,7 @@ For next week, you'll start building the skeleton of your bot:
 * Install `pip` and the `python-twitter` library – see the `Installing Python Libraries` section below for instructions  
 
 **EXAMPLE TEMPLATES:**  
-A template defines the structure of your bot's tweets. It's basically like a [Mad Lib](https://en.wikipedia.org/wiki/Mad_Libs), where you insert random words into the overall pattern, generating cohesive (sometimes), funny, weird text. A few examples:
+A template defines the structure of your bot's messages. It's basically like a [Mad Lib](https://en.wikipedia.org/wiki/Mad_Libs), where you insert random words into the overall pattern, generating cohesive (sometimes), funny, weird text. A few examples:
 
 * A `<noun>` in the hand is worth `<number>` in the `<noun>` (as in *A bird in the hand is worth two in the bush*)     
 * The `<noun>` `<adjective>` `<animal>` jumps over the `<adjective>` `<animal>` (as in *The quick brown fox jumps over the lazy dog*)  
@@ -44,10 +44,10 @@ A template defines the structure of your bot's tweets. It's basically like a [Ma
 * YOU ARE MY `<adjective>` `<noun>`. MY `<adjective>` `<noun>` `<adverb>` `<verbs>` YOUR `<adjective>` `<noun>` (the template used in [Christopher Strachey's 1953 love letter generator](https://www.newyorker.com/tech/elements/christopher-stracheys-nineteen-fifties-love-machine))
 
 ### FOR FRIDAY, NOVEMBER 9
-For next week, your assignment is to finish your bot! [Get your OAuth settings from Twitter](https://github.com/ozkantuba/CreativeProgrammingI/blob/master/Code/Week08_Python/TwitterDevAccountSetup.md) and run some test posts. Once all done, post a bunch of tweets and assemble your documentation:
+For next week, your assignment is to finish your bot! [Get your OAuth settings from Slack and run some test posts. Once all done, post a bunch of messages and assemble your documentation:
 
 * Create a folder called `LastnameFirstname_Bot`, in it put...  
-* Five screenshots of favorite tweets from your bot  
+* Five screenshots of favorite messages from your bot
 * Your bot's Python code – at the top, be sure to include your name, the name of your bot, its Twitter handle, and list any special libraries it needs to run (including URL or instructions to install)  
 * Zip the folder and upload to Canvas  
 
@@ -55,7 +55,10 @@ Please also read the excerpt from *10 PRINT CHR$*, found in the `Readings` folde
 
 >"When you first sit at a computer terminal, the feeling is one of sheer terror. Sweat and chills, jumpiness and sudden clumsy nervous motions, lunatic absentmindedness, and stammering fear and awkwardness interfere with your ability to function or understand the person who is helping you. It's perfectly normal." – Ted Nelson, *Dream Machines*
 
-### INSTALLING PYTHON LIBRARIES  
+### INSTALLING PYTHON LIBRARIES
+
+* THESE STEPS ARE UPDATED ACCORDING TO SLACK API: https://tinyurl.com/yb9l7gp2
+
 To post our tweets, we'll need a library to handle all the messy bits. There are a few Python libraries for this, but we're going to use `python-twitter`, [available here](https://github.com/bear/python-twitter). Use the instructions below to install the library, and others you might want to try.
 
 * Install `pip`, a Python module that installs other libraries. Your version of Python might already have it installed: type `pip` in the command line to check. If not, use [these instructions](https://pip.pypa.io/en/stable/installing/)  
