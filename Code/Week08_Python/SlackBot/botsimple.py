@@ -1,3 +1,6 @@
+#BASIC SLACK BOT
+#Tuba Ozkan | 2018
+
 import random  			# for selecting random elements from lists
 import os               # for virtual environments
 from slackclient import SlackClient
