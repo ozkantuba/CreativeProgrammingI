@@ -57,17 +57,40 @@ Please also read the excerpt from *10 PRINT CHR$*, found in the `Readings` folde
 
 ### INSTALLING PYTHON LIBRARIES
 
-* THESE STEPS ARE UPDATED ACCORDING TO SLACK API: https://tinyurl.com/yb9l7gp2
-
 To post our tweets, we'll need a library to handle all the messy bits. There are a few Python libraries for this, but we're going to use `python-twitter`, [available here](https://github.com/bear/python-twitter). Use the instructions below to install the library, and others you might want to try.
 
 * Install `pip`, a Python module that installs other libraries. Your version of Python might already have it installed: type `pip` in the command line to check. If not, use [these instructions](https://pip.pypa.io/en/stable/installing/)  
-* Windows woes? If you get an error that the `pip` command isn't found, try [these instructions](https://github.com/Langoor2/PokemonGo-Map-FAQ/wiki/%27python---pip%27-is-not-recognized-as-an-internal-or-external-command,-operable-program-or-batch-file.) – you might also have to [run Command Prompt as the administrator](https://technet.microsoft.com/en-us/library/cc947813(v=ws.10).aspx)  
-* With `pip` installed, getting the Twitter library is easy! In the command line, simply run `pip install python-twitter`. You should see a bunch of text roll by, then success!  
-* Some code includes amazingly rich documentation... this library not as much. There are a [few examples here](https://github.com/bear/python-twitter/tree/master/examples), but for this project you shouldn't need anything too fancy.  
-* Optional: other tools for installing libraries on the Mac include the excellent [Homebrew](https://brew.sh/)  
-* Errors that say you don't have permission to do something? Try adding the word `sudo` in front of your command, as in `sudo pip install python-twitter`. You'll put in your user's password and it should word. (Why's the command called that weird thing? [Wikipedia has the anser.](https://en.wikipedia.org/wiki/Sudo))
+* Windows woes? If you get an error that the `pip` command isn't found, try [these instructions](https://github.com/Langoor2/PokemonGo-Map-FAQ/wiki/%27python---pip%27-is-not-recognized-as-an-internal-or-external-command,-operable-program-or-batch-file.) – you might also have to [run Command Prompt as the administrator](https://technet.microsoft.com/en-us/library/cc947813(v=ws.10).aspx)
 
+* NEXT STEPS ARE UPDATED BELOW FOR SLACK API (https://github.com/ozkantuba/CreativeProgrammingI/blob/master/Lectures/Week10.pdf)
+
+    * With `pip` installed, getting the Twitter library is easy! In the command line, simply run `pip install python-twitter`. You should see a bunch of text roll by, then success!
+    * Some code includes amazingly rich documentation... this library not as much. There are a [few examples here](https://github.com/bear/python-twitter/tree/master/examples), but for this project you shouldn't need anything too fancy.  
+    * Optional: other tools for installing libraries on the Mac include the excellent [Homebrew](https://brew.sh/)  
+    * Errors that say you don't have permission to do something? Try adding the word `sudo` in front of your command, as in `sudo pip install python-twitter`. You'll put in your user's password and it should word. (Why's the command called that weird thing? [Wikipedia has the anser.](https://en.wikipedia.org/wiki/Sudo))
+
+ UPDATED STEPS:
+ 
+ INSTALL VIRTUAL ENVIRONMENTS:
+ 
+     * INSTALL VIRTUAL ENVIRONMENT: sudo pip install virtualenv
+     * CREATE A FOLDER
+     * CREATE A VIRTUAL ENVIRONMENT WHEN YOU ARE IN THIS FOLDER: virtualenv starterbot
+     * ACTIVATE THE VIRTUAL ENVIRONMENT source starterbot/bin/activate
+     * INSTALL SLACKCLIENT: sudo pip install slackclient
+     
+     // If you are having an error about “six package” TRY THIS  --->
+     sudo pip install slackclient --ignore-installed six
+ 
+ CREATE A SLACK APP:
+ 
+     * https://api.slack.com/apps?new_app=1
+     * JOIN THIS SLACK CHANNEL (THIS IS THE INVITATION LINK): https://tinyurl.com/y8evop4h
+     * CREATE A SLACK BOT USER +
+     FIND THE BEST NAME FOR YOUR BOT THAT FITS WITH THE PERSONALITY OF YOUR BOT
+      * CLICK INSTALL APP AND COPY THE TOKENS
+      * ON TERMINAL WINDOW TYPE THIS (YOU SHOULD BE IN THE FOLDER+ VIRTUAL ENV. YOU HAVE BEEN WORKING IN) export SLACK_BOT_TOKEN='your bot user access token here'
+ 
 ### PROJECTS SHOWN  
 * Historical examples of bot-like work include Dadist [Tristan Tzara's *Combinations*](http://www.in-vacua.com/tzara.shtml) and [William S. Burroughs and Brion Gysin's *The Third Mind*](http://www.ubu.com/historical/burroughs/William_S_Burroughs___Brion_Gysin_-_3rd_Mind.pdf) (also in the `Readings` folder)    
 * Allison Parrish's classic [@everyword](https://twitter.com/everyword), which does exactly what you'd think it does  
