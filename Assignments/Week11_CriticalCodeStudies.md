@@ -5,10 +5,9 @@ CRITICAL CODE STUDIES + PARTICLE SYSTEMS
 
 Please read the excerpt from *10 PRINT CHR$*, found in the `Readings` folder. We'll talk about Critical Code Studies and analyzing code. Write up two responses, questions, or provocations and post them as an issue on this repository under the title `Firstname Lastname: 10 PRINT CHR$`. (Optionally, also check out the amazing collection *Software Studies: A Lexicon*, also in the `Readings` folder.)
 
-BONUS:
++++
 
-In Github, Code Folder you will find sample codes about particle systems. Go over all of them and play around with "Systems of System" sample.
-Change one or two things in the code, and observe the results.
+In Github, Code Folder you will find sample codes about particle systems. Go over all of them and play around with "Systems of System" sample. Change one or two things in the code, and observe the results.
 
 The primary goal of this exercise is understanding the code structure for defining classes, and creating objects that belong to the classes you have identified.
 
