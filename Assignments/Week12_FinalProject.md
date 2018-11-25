@@ -8,7 +8,8 @@ Your final project for the semester is to make something, anything, using at lea
 The goal should be a project that you're personally invested in, and that you procrastinate all other projects to work on!
 
 ### PROJECT CALENDAR  
-**Nov 16:** Final project assigned, work on project proposals and rough prototypes.
+**Nov 16:** Final project assigned, work on your concept statement and rough prototypes.
+**Nov 24:** Due for rough concept statements and mindmaps
 **Nov 30:** Tuba out of town, no class! Continue working on projects.
 **Dec 7:** Rough prototypes due, demos of work in progress and work day.  
 **Dec 21:** Final projects due uploaded to Canvas and Tumblr with the process documentation.
@@ -20,7 +21,7 @@ Please upload your brainstorming process (photos) and concept statements into th
 Please re-write your final concept statements based on the feedback you have recieved.
 
 **TROUBLE COMING UP WITH IDEAS?**  
-This project is all yours. It should come from your passions, think about the topics/fields/things/subjects you are must passionate about. As a jumping off point, think about things you've enjoyed doing this semester, and things that you're generally obsessed with. If you love binge-watching crappy 80s TV, maybe a project that manipulates or analyzes millions of frames of video from those shows. If you are super into language, maybe a poem-generating sketch that outputs printable book PDFs with auto-generated illustrations.
+This project is all yours. It should come from your passions. As a jumping off point, think about things you've enjoyed doing this semester, and things that you're generally obsessed with. If you love binge-watching crappy 80s TV, maybe a project that manipulates or analyzes millions of frames of video from those shows. If you are super into language, maybe a poem-generating sketch that outputs printable book PDFs with auto-generated illustrations.
 
 There are some techniques you can use:
 
