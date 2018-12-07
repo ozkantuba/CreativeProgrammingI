@@ -11,7 +11,7 @@ The goal should be a project that you're personally invested in, and that you pr
 **Nov 16:** Final project assigned, work on your concept statement and rough prototypes.
 **Nov 24:** Due for rough concept statements and mindmaps
 **Nov 30:** Tuba out of town, no class! Continue working on projects.
-**Dec 7:** Rough prototypes due, demos of work in progress and work day.  
+**Dec 7:** Rough prototypes due, demos of work in progress and work day
 **Dec 21:** Final projects due uploaded to Canvas and Tumblr with the process documentation.
 
 ### FOR SATURDAY, NOVEMBER 24
