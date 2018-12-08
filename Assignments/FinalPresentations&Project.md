@@ -15,7 +15,7 @@ The goal should be a project that you're personally invested in, and that you pr
 **Dec 21:** Final projects due uploaded to Canvas and Tumblr with the process documentation. We will meet online to hear everybody's presentations.
 
 ### FOR FRIDAY, DECEMBER 21
-**There will be an online turn-in and we will meet online through Google Hangsout to hear everybody's presentations!** There are a few things you need to do to turn these in, so please read this carefully.
+**There will be an online turn-in and we will meet online through Google Hangsout to listen everybody's presentations!** Further details will be shared about online meeting.
 
 **PROJECT DELIVERABLES**
 1- Your working code
