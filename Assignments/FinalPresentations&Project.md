@@ -33,9 +33,9 @@ Your concept statement and your short videos should be uploaded to the tumblr.
 FINAL PRESENTATION
 ====
 
-In most cases, presenting your work is as much important as your work itself! Even though the basic final form of your projects will be a processing code, while presenting our work to others, we usually need to talk about other details including our concept, process, and inspiration before showing the outcome.
+In most cases, presenting your work is as much important as your work itself! Even though the basic final form of your projects will be a processing code, while presenting our work to others, we usually need to talk about other details including our concept, process, and inspiration before showing the outcome. Find more info about presentation technics here: https://github.com/ozkantuba/CreativeProgrammingI/blob/master/Lectures/Week%2012.pdf
 
-For our online meeting, you are expected to prepare an 8-10 slides presentation. The main principle for your presentations should be "no/min text + max visuals". These slides are not for you to read from, they are for your audience. For providing visual support to people to help them to comprehend the spoken language. The following should be the flow of your presentations:
+For our online meeting, you are expected to prepare an 8-10 slides presentation. Each of you will have 5 min to 7min. to present and 5 min. to recieve critic! The main principle for your presentations should be "no/min text + max visuals".  These slides are not for you to read from, they are for your audience. They provides visual support to people to help them to comprehend the spoken language. The following should be the flow of your presentations:
 
     1- Domain of interests - Your mind maps+ sketches is an excellent way to start talking about your projects.
     2- What are your inspirations? - Show 1-2 sample projects that you got inspiration from for your projects.
