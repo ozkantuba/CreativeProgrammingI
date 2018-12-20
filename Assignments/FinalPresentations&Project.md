@@ -19,7 +19,7 @@ The goal should be a project that you're personally invested in, and that you pr
 
 **PROJECT DELIVERABLES**
 1- Your working code
-2- Presentation Deck
+2- Presentations (Your slides in pdf format)
 3- A 30-50 seconds video shows the interaction between your project and your target audience. Think this video like a short clip that shows the ideal usage/interaction scenario that you imagined for your project. As an example: if your project supposed to be a projected installation that people interact within a gallery setting or in a public space, try to mimic that experience in the video. Find creative ways to capture this video: you can use projectors or bigger screens and your roommates as actors/actresses.
 
 **WHAT TO UPLOAD TO THE CANVAS?**
